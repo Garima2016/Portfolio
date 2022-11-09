@@ -1,6 +1,6 @@
 export const products = [{
     id: 1,//pokemon go
-    img: 'pokemonGo.jpg',
+    img: 'pokemonGO.jpg',
     link: "http://garimag.me/Pokemon/",
 },
 {
