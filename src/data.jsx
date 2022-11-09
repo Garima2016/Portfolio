@@ -28,4 +28,8 @@ export const products = [{
     img: "https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_500/https://harrisauctions.com/wp-content/uploads/2021/02/Coming-Soon.jpg",
     link: "",
 },
+<<<<<<< HEAD
 ];
+=======
+];
+>>>>>>> a354ae8bf60d24fd4e6426257b9d8bc0ad80d538
