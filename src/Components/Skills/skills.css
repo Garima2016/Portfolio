@@ -1,0 +1,13 @@
+.carousel-inner img{
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    background-size: cover;
+    margin: auto;
+}
+
+.carousel h1{
+    font-size: 50px;
+    font-weight: 600;
+    padding: 10px;
+}
